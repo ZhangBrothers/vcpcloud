@@ -1,0 +1,8 @@
+Debug
+*/Debug
+Release
+*/Release
+*.sdf
+*/*.sdf
+*.suo
+*/*.suo
